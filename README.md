@@ -1,11 +1,11 @@
 ## [GitHub正常访问修复](其他/如何正常访问github.md)
 
 # 软件下载
-<span onclick="navigator.clipboard.writeText('ZZ')"
-      style="color:#009688;cursor:pointer;text-decoration:underline;"
-      title="点击复制">
-  蓝奏云密码（点击复制）
-</span>
+<a href="javascript:;"
+   onclick="navigator.clipboard.writeText('ZZ');alert('密码已复制')"
+   style="color:#007bff;cursor:pointer;">
+  点击复制密码
+</a>
 ## [私人下载地址](https://samoa.lanzouy.com/b01rgbcib/)
 
 因蓝奏云要求，安卓浏览器无法下载，需PC下载或者安卓浏览器更改标识为PC
