@@ -1,15 +1,22 @@
 ## [GitHub正常访问修复](其他/如何正常访问github.md)
 
 # 软件下载
-## 以下所有（因蓝奏云要求，安卓浏览器无法下载，需PC下载或者安卓浏览器更改标识为PC）
+<span onclick="navigator.clipboard.writeText('ZZ')"
+      style="color:#009688;cursor:pointer;text-decoration:underline;"
+      title="点击复制">
+## 蓝奏云密码（点击复制）
+</span>
+## [私人下载地址](https://samoa.lanzouy.com/b01rgbcib/)
+------
+因蓝奏云要求，安卓浏览器无法下载，需PC下载或者安卓浏览器更改标识为PC
+------
 ## [开源阅读](其他/源/阅读源.md)“清爽简单无广告的阅读”[legado私人地址](https://tool.bitefu.net/lanzou/?url=https://samoa.lanzouv.com/iy1g32y72odi&type=down&pwd=b855)
 ## [我的听书](其他/源/听书源.md)“各种听书、小说、相声等”[tingshu官方蓝奏云地址](https://pan.lanzoux.com/b873905)
 ## [影视仓](其他/源/TVbox源.md)“电视安装看电影、电视剧、综艺”[影视仓电视版6.1.2-exo1.6.1.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)
 ## [影视仓V3](其他/源/TVbox源.md)“同上安卓4及之前旧电视使用”[影视仓V3（稳定版）-3.0.32_兼容安卓4.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)
 ## [Kodi](其他/源/Kodi+NAS打造家庭影音娱乐中心.md)“电视配合NAS的神级播放器”[kodi-19.4-Matrix-arm64-v8a.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)[kodi官方地址](https://kodi.tv/download/android/)
 ## [Nplayer](其他/源/群晖下NFS+Nplayer.md)“安卓手机配合NAS的神级播放器”[nPlayer_v1.7.7.7_191219_apkfab.com.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)
-https://tool.bitefu.net/lanzou/?url=https://samoa.lanzouv.com/iy1g32y72odi&type=down&pwd=b855
-1
+
 # 虚拟机
 ## [VM磁盘清理](其他/VM磁盘清理.md)
 ## [VMWare·虚拟机](其他/vmware.com.md)
