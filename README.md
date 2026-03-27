@@ -9,7 +9,8 @@
 ## [私人下载地址](https://samoa.lanzouy.com/b01rgbcib/)
 > [!WARNING]
 > 因蓝奏云要求，安卓浏览器无法下载，需PC下载或者安卓浏览器更改标识为PC
-> 如果密码复制无效填入：```ZZ```
+> 如果密码复制无效手动填入：
+> ```ZZ```
 
 ## [开源阅读](其他/源/阅读源.md)“清爽简单无广告的阅读”[legado私人地址](https://tool.bitefu.net/lanzou/?url=https://samoa.lanzouv.com/iy1g32y72odi&type=down&pwd=b855)
 ## [我的听书](其他/源/听书源.md)“各种听书、小说、相声等”[tingshu官方蓝奏云地址](https://pan.lanzoux.com/b873905)
