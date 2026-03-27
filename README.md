@@ -8,10 +8,10 @@
 </a>
 ## [私人下载地址](https://samoa.lanzouy.com/b01rgbcib/)
 
-> [!WARNING]
+> **⚠️ WARNING**
 > 因蓝奏云要求，安卓浏览器无法下载，需PC下载或者安卓浏览器更改标识为PC
 
-> [!TIP]
+> **💡 TIP**
 > 如果密码复制无效手动填入：
 
 # ```ZZ```
