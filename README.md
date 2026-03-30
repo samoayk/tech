@@ -16,7 +16,7 @@
 
 # ```ZZ```
 
-## [开源阅读](其他/源/阅读源.md)“清爽简单无广告的阅读”[legado私人地址](https://tool.bitefu.net/lanzou/?url=https://samoa.lanzouv.com/iy1g32y72odi&type=down&pwd=b855)
+## [开源阅读](其他/源/阅读源.md)“清爽简单无广告的阅读”[legado官方Github地址](https://github.com/gedoor/legado/releases/Latest)
 ## [我的听书](其他/源/听书源.md)“各种听书、小说、相声等”[tingshu官方蓝奏云地址](https://pan.lanzoux.com/b873905)
 ## [影视仓](其他/源/TVbox源.md)“电视安装看电影、电视剧、综艺”[影视仓电视版6.1.2-exo1.6.1.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)
 ## [影视仓V3](其他/源/TVbox源.md)“同上安卓4及之前旧电视使用”[影视仓V3（稳定版）-3.0.32_兼容安卓4.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)
